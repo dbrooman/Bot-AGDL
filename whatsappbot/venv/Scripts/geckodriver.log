@@ -1,0 +1,61 @@
+1644888665824	geckodriver	INFO	Listening on 127.0.0.1:61002
+1644888668867	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61003" "-no-remote" "-profile" "C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofileN8ENfk"
+1644888669593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofileN8ENfk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61003/devtools/browser/75a4843a-a65a-4b95-a396-b8b2c5ab0295
+1644888673061	Marionette	INFO	Listening on port 61011
+1644888673136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644888682656	Marionette	INFO	Stopped listening on port 61011
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1644888697430	geckodriver	INFO	Listening on 127.0.0.1:61064
+1644888700478	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61065" "-no-remote" "-profile" "C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofilebghTxS"
+1644888701425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofilebghTxS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61065/devtools/browser/8e9fd1a7-063c-4d4d-bb07-d222a7ca84e2
+1644888704806	Marionette	INFO	Listening on port 61071
+1644888704894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1644888759414	Marionette	INFO	Stopped listening on port 61071
+1644888781942	geckodriver	INFO	Listening on 127.0.0.1:61136
+1644888784972	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61137" "-no-remote" "-profile" "C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofilekgNc3y"
+1644888785683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofilekgNc3y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61137/devtools/browser/bbda2622-d17e-4fd1-8d94-80d6c8b9f6b1
+1644888789192	Marionette	INFO	Listening on port 61142
+1644888789287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1646488268184	geckodriver	INFO	Listening on 127.0.0.1:55374
+1646488271157	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55375" "-no-remote" "-profile" "C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofileGRVxml"
+1646488272053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofileGRVxml\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55375/devtools/browser/e5cc0963-d779-482d-9e96-70ca148a7167
+1646488275207	Marionette	INFO	Listening on port 55383
+1646488275392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1646488466647	geckodriver	INFO	Listening on 127.0.0.1:64656
+1646488469669	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64657" "-no-remote" "-profile" "C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofileaPSCw4"
+1646488470559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Daniele\\AppData\\Local\\Temp\\rust_mozprofileaPSCw4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64657/devtools/browser/1a0cda2d-f078-4cad-bd1e-0a0c32c55a08
+1646488473440	Marionette	INFO	Listening on port 64664
+1646488473877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[Child 2920, MediaDecoderStateMachine #2] WARNING: 16305280 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 2920, MediaDecoderStateMachine #2] WARNING: 16305280 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1646488578929	Marionette	INFO	Stopped listening on port 64664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
